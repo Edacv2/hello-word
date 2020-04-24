@@ -1,2 +1,5 @@
 # hello-word
-Just anothre repository
+
+Hi Github,
+
+Im Ed, Im tryinmg to learn Python and to use this tool with my small projects.

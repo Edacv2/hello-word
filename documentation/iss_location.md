@@ -5,5 +5,5 @@ Space Station (ISS). After obtaining the coordinates, it will use <b>geopy.Nomin
 coordinates. Then will extact only the country name and display it using the sense hat matrix display.
 
 If the user don't have the sense hat there are two options:
-1. The code can be change to only use print and not the matrix display.
+1. The code can be change to only use print on console and not use the matrix display.
 2. Use the sense hat emulator included on Raspbian by enabeling the libary <b>from sense_emu import SenseHat</b>.

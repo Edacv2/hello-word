@@ -1,4 +1,4 @@
-# hello-word
+# print("Hello_word")
 
 On this repo I will be adding the <b>.py</b> files that I modify on 
 my <a href="https://astro-pi.org/">AstroPi</a>. Those programs can be found

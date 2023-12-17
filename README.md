@@ -13,3 +13,6 @@ Goals:
   >Learn more advance SQL, Oracle, PL/SQL.
   >Practice More Phyton.
   >Learn and Practice Batch.
+
+Video:
+Batch -> https://www.youtube.com/watch?v=e7BufAVwDiM
